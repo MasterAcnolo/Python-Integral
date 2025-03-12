@@ -140,5 +140,5 @@ button_plot.pack()
 label_result = tk.Label(root, text="Graphique de la fonction et résultats de l'intégrale")
 label_result.pack()
 
-# Lancer le neuille de code
+# Lancer le neuille de code pendant un temps infini ( askip c'est long )
 root.mainloop()
